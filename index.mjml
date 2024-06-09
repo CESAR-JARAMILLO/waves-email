@@ -1,0 +1,536 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .register-btn {
+        text-decoration: none;
+        display: inline-block;
+        color: #202124;
+        background-color: #ff8a00;
+        border-radius: 50px;
+        width: 264px;
+        border: 1px solid #ff8a00;
+        padding: 26px 0;
+        font-family: Arial;
+        text-align: center;
+        font-size: 17px;
+        font-weight: bold;
+      }
+
+      .register-btn:hover {
+        color: #202124;
+      }
+
+      .shop-btn {
+        text-decoration: none;
+        display: inline-block;
+        color: #202124;
+        background-color: #f0ff00;
+        border-radius: 50px;
+        width: 264px;
+        border: 1px solid #f0ff00;
+        padding: 26px 0;
+        font-family: Arial;
+        text-align: center;
+        font-size: 17px;
+        font-weight: bold;
+      }
+
+      .shop-btn:hover {
+        color: #202124;
+      }
+
+      .free-btn {
+        text-decoration: none;
+        display: inline-block;
+        color: #fff;
+        background-color: #000;
+        border-radius: 50px;
+        width: 264px;
+        border: 2px solid #fff;
+        padding: 26px 0;
+        font-family: Arial;
+        text-align: center;
+        font-size: 17px;
+        font-weight: bold;
+      }
+
+      .free-btn:hover {
+        color: #fff;
+      }
+
+      .limited-links {
+        text-decoration: none;
+        color: #fff;
+        font-weight: bold;
+      }
+
+      .limited-links:hover {
+        color: #fff;
+      }
+
+      .free-link {
+        text-decoration: underline;
+      }
+
+      .terms {
+        font-weight: normal;
+      }
+
+      .access-link {
+        color: #f0ff00;
+      }
+
+      .access-link:hover {
+        color: #f0ff00;
+      }
+
+      .bold {
+        font-weight: bold;
+      }
+
+      .footer-links {
+        color: #4e4e4e;
+      }
+
+      .footer-links:hover {
+        color: #4e4e4e;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f2f2f2">
+    <mj-section padding="0">
+      <mj-column width="100%">
+        <mj-image padding="0" href="https://producelikeapro.com/vocal-recording-techniques-webinar/?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" src="http://127.0.0.1:5500/images/header-img.jpg" alt="waves logo" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Intro -->
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#ff8a00" font-size="32px" font-weight="bold" line-height="42px" font-family="Arial">
+          Introducing the Vocal
+          Recording Techniques Webinar
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#fff" font-size="15.5px" font-weight="400" line-height="30px" font-family="Arial">
+          Introducing the Vocal
+          Recording Techniques Webinar
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#fff" font-size="15.5px" font-weight="400" line-height="30px" font-family="Arial">
+          This free 3-day live event hosted by Produce like A Pro will help you improve the quality of your vocal recording and vocal mixing and turn your frustration into satisfaction.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#fff" font-size="15.5px" font-weight="400" line-height="30px" font-family="Arial">
+          This free 3-day live event hosted by Produce like A Pro will help you improve the quality of your vocal recording and vocal mixing and turn your frustration into satisfaction.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#fff" font-size="15.5px" font-weight="400" line-height="30px" font-family="Arial">
+          By the end, you’ll be able to track vocals and produce your artists with the confidence that you are getting the very best out of their performance.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1519" padding="0 40px 0 60px">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#ff8a00" font-size="21px" font-weight="bold" line-height="40px" font-family="Arial">
+          Starts Wednesday, June 5th for THREE days
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#0f1519">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 60px 0" background-color="#0f1519">
+      <mj-column>
+        <mj-text padding="0" align="center">
+          <a href="https://producelikeapro.com/vocal-recording-techniques-webinar/?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="register-btn">
+            Register Here
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Limited Time -->
+    <mj-section padding="30px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1b2b" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0" color="#fff" font-size="25px" font-weight="bold" line-height="35px" font-family="Arial" align="center">
+          Limited Time
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="17.5px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column width="100%">
+        <mj-image padding="0" href="https://www.waves.com/best-sellers?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=18" src="http://127.0.0.1:5500/images/top-20.jpeg" alt="top 20" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1b2b" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="20px" font-weight="bold" line-height="30px" font-family="Arial" align="center">
+          Get the top plugins that mixers & producers agree are essential to their productions:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0f1b2b" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="15px" line-height="30px" font-family="Arial" align="center">
+          Vocal pitch correction and harmony plugins, top compressors and channel strips, noise removal, all-in-one vocal mixing plugins and much more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text padding="0" align="center">
+          <a href="https://www.waves.com/best-sellers?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=18" class="shop-btn">
+            Shop Top 20
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 20px 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text font-size="23px" line-height="33px" padding="0" align="center">
+          <a href="https://www.waves.com/specials?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=18" class="limited-links">
+            Free plugin bonus:
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text font-size="25px" line-height="35px" padding="0" align="center">
+          <a href="https://www.waves.com/best-sellers?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=18" class="limited-links">
+            Spend $50 get 1 free plugin
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text font-size="25px" line-height="35px" padding="0" align="center">
+          <a href="https://www.waves.com/best-sellers?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=18" class="limited-links">
+            Spend $80 get 2 free plugins
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text font-size="23px" line-height="30px" padding="0" align="center">
+          <a href="https://www.waves.com/free-plugins-spend-50-spend-80-sale-may-28-2024?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="limited-links free-link">
+            See 100 free plugins »
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#0f1b2b">
+      <mj-column>
+        <mj-text font-size="12px" line-height="30px" padding="0" align="center" color="#fff">
+          Maximum 2 free plugins per order.
+          <a href="https://www.waves.com/legal/spend-50-spend-80-june-2024-terms-and-conditions?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="limited-links terms">
+            <span class="free-link">Terms & conditions apply.</span>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0" background-color="#0f1b2b">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 0" background-color="#000">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#000">
+      <mj-column>
+        <mj-text font-size="24px" line-height="33px" padding="0" align="center">
+          <a href="https://www.waves.com/subscriptions?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="limited-links">
+            All Waves plugins. 1 easy subscription.
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 0 0" background-color="#000">
+      <mj-column>
+        <mj-text font-size="37.5px" line-height="47px" padding="0" align="center">
+          <a href="https://www.waves.com/subscriptions?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="limited-links access-link">
+            Waves Creative Access
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column width="100%">
+        <mj-image padding="0" href="https://www.waves.com/subscriptions?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" src="http://127.0.0.1:5500/images/access-img.jpeg" alt="waves creative access" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            230+ Waves plugins:</span> The industry’s biggest catalog
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            Waves Stream:</span> Remote music collaboration
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            All plugin updates,
+          </span>always available to you, no extra charge
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            New plugin releases</span> added regularly to your subscription
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            2 licenses</span> for activation on 2 machines
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0">
+      <mj-column width="100%">
+        <mj-text padding="0 65px" color="#fff" font-size="16px" line-height="30px" font-family="Arial" align="center">
+          <span class="bold">
+            The full power of StudioVerse:</span> 1000s of easy-to-use mix chains
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#000">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px 0" background-color="#000">
+      <mj-column>
+        <mj-text padding="0" align="center">
+          <a href="https://www.waves.com/subscriptions?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" class="free-btn">
+            Start Free
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding="0 0 70px 0">
+      <mj-column width="100%">
+        <mj-text padding="0 52px" color="#fff" font-size="12px" line-height="30px" font-family="Arial" align="center">
+          Waves Creative Access contains the entire catalog of Waves plugins, excluding DTS broadcast plugins, Dugan Speech, and Waves live mixers & racks.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#f2f2f2" padding="0 30px">
+      <mj-group>
+        <mj-column width="35%" vertical-align="top">
+          <mj-image align="left" width="44px" padding="0" href="https://www.waves.com/?utm_source=wnletter&utm_medium=email&utm_campaign=third-party-promo-mastering-june-2024" src="http://127.0.0.1:5500/images/footer-logo.png" alt="waves logo" />
+        </mj-column>
+
+        <mj-column width="65%" vertical-align="bottom" padding="0">
+          <mj-social mode="horizontal" icon-size="20px" padding="0" align="right">
+            <mj-social-element href="https://www.facebook.com/waves" src="http://127.0.0.1:5500/images/facebook.png" alt="facebook" />
+            <mj-social-element href="https://www.instagram.com/waves" src="http://127.0.0.1:5500/images/instagram.png" alt="instagram" />
+            <mj-social-element href="https://www.youtube.com/waves" src="http://127.0.0.1:5500/images/youtube.png" alt="youtube" />
+            <mj-social-element href="https://www.tiktok.com/@waves" src="http://127.0.0.1:5500/images/tiktok.png" alt="tiktok" />
+            <mj-social-element href="https://x.com/waves" src="http://127.0.0.1:5500/images/x.png" alt="x" />
+            <mj-social-element href="https://www.linkedin.com/company/waves-audio/" src="http://127.0.0.1:5500/images/linkedin.png" alt="linkedin" />
+          </mj-social>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 30px" background-color="#f2f2f2">
+      <mj-column>
+        <mj-divider padding="0" border-width="1px" border-color="#000" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="10px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding="0 0 0 0">
+      <mj-column width="100%">
+        <mj-text padding="0 30px" color="#4e4e4e" font-size="11px" line-height="16px" font-family="Arial">
+          To ensure delivery of future mailings, please add <a href="#" class="footer-links">news@emails.waves-audio.com</a> to your contacts or safe senders list. <a href="#" class="footer-links">Update your email preferences</a> | <a class="footer-links" href="#">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="4px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding="0 0 0 0">
+      <mj-column width="100%">
+        <mj-text padding="0 30px" color="#4e4e4e" font-size="11px" line-height="16px" font-family="Arial">
+          Also available from select <a class="footer-links" href="#">authorized Waves dealers.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="4px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding="0 0 0 0">
+      <mj-column width="100%">
+        <mj-text padding="0 30px" color="#4e4e4e" font-size="11px" line-height="16px" font-family="Arial">
+          Offers are valid for a limited time. Waves reserves the right to stop these offers at any time. Offers are not retroactive and apply only to specified products.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="4px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding="0 0 0 0">
+      <mj-column width="100%">
+        <mj-text padding="0 30px" color="#4e4e4e" font-size="11px" line-height="16px" font-family="Arial">
+          Please do not reply to this email, as this mailbox will not accept incoming mail. For customer service and sales, please <a href="" class="footer-links">contact us by email.</a> Copyright© 2024 Waves Audio Ltd. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0" background-color="#f2f2f2">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
